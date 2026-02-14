@@ -165,20 +165,6 @@ This project demonstrates:
 
 ---
 
-## 📁 Repository Structure
 
-```
-customer-churn-project/
-│── data/
-│── notebooks/
-│── README.md
-│── requirements.txt
-```
 
----
 
-## 👨‍💻 Author
-
-Aspiring Data Scientist – Machine Learning Enthusiast
-
----
